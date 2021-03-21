@@ -16,6 +16,7 @@
 
 | Project Name | Project Content | Link |
 | --- | --- | --- |
+| spotify_api | Python, requests, email automation | [Go to project](https://github.com/DanHamer96/spotify_api)
 | euronext_scraper | Python, web scraping, ETL | [Go to project](https://github.com/DanHamer96/euronext_scraper)
 | animal_mailer | Python, email automation | [Go to project](https://github.com/DanHamer96/animal_mailer)
 
