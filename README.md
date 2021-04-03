@@ -6,7 +6,7 @@
 
 🐍  I write Python code.
 
-📚  I’m currently learning Django & machine learning in Python.
+📚  I’m currently learning Flask.
 
 📫  How to reach me:
 - Email: danhamer@hotmail.com
