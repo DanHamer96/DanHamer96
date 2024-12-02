@@ -14,8 +14,6 @@
 
 | Project Name | Project Content | Link |
 | --- | --- | --- |
-| WhichBar.com | Python, Flask, machine learning | [Go to project](https://github.com/DanHamer96/WhichBar.com)
-| animal_mailer | Python, email automation | [Go to project](https://github.com/DanHamer96/animal_mailer)
 
 <!---
 DanHamer96/DanHamer96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
